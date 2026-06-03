@@ -1,0 +1,9 @@
+#DE:
+#In diesen Spielen werden WASD als Pfeiltasten benutzt
+#Trage hier Spielenamen ein:
+#EN:
+#In these games WASD is used as arrow keys
+#Place your game names here:
+
+Minecraft
+Fortnite
